@@ -1,0 +1,8 @@
+.message-avatar__image {
+  border-radius: 50%;
+}
+
+.message {
+  padding: 5px 10px;
+  border-radius: 15px;
+}
